@@ -1,0 +1,17 @@
+{
+    "name": "etud/stock-manager",
+    "description": "Mini gestion de stock PHP + PDO + PHPUnit",
+    "autoload": {
+        "psr-4": {
+            "Etud\\StockManager\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Khamis Amaboua"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^12.4"
+    }
+}
