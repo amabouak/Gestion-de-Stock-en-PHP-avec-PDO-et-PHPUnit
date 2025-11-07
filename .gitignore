@@ -1,0 +1,19 @@
+# Dependencies
+vendor/
+
+# PHPUnit cache
+.phpunit.result.cache
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Environment files
+.env
